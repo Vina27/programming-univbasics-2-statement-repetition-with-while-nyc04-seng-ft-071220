@@ -1,7 +1,7 @@
 # Write your code here
 exit_number = 0
 count = 10
-while count < 10 do 
+while count < 0 do 
   break if count == exit_number 
   puts "Happy New Year"
 count = count - 1 
