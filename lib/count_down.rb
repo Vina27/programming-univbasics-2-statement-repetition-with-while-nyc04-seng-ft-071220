@@ -3,6 +3,7 @@
 count = 10
 while count >= 1 do 
   break if count == exit_number 
-  puts "Happy New Year"
-count -=1 
-end 
+  puts count
+  count -= 1 
+end
+puts "Happy New Year!"
