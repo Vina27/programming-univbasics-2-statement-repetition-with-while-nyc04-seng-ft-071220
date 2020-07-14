@@ -1,7 +1,7 @@
 # Write your code here
-exit_number = 1
+exit_number = 0
 count = 10
-while count > 10
+while count > 1 do 
 
 
 
